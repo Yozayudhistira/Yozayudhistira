@@ -4,5 +4,5 @@
 3. [Membuat Plot 3D melalui EMT](https://github.com/Yozayudhistira/Yozayudhistira/blob/main/Omega%20Yoza%20Yudhistira_23030630064_EMT4Plot3D.pdf)
 4. [Belajar Kalkulus melalui EMT](https://github.com/Yozayudhistira/Yozayudhistira/blob/main/Omega%20Yoza%20Yudhistira_23030630064_EMT4Kalkulus.pdf)
 5. [Belajar Geometri melalui EMT](https://github.com/Yozayudhistira/Yozayudhistira/blob/main/Omega%20Yoza%20Yudhistira_23030630064_EMT4Geometri.pdf)
-6.
+6. [Belajar Statistika melalui EMT](https://github.com/Yozayudhistira/Yozayudhistira/blob/main/Omega%20Yoza%20Yudhistira_23030630064_EMT4Statistika.pdf)
 
